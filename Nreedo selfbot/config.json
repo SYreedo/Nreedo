@@ -1,0 +1,21 @@
+ {
+    "token": "",
+    "password": "",
+    "prefix": "x", 
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "afk_message": "fighting demons",
+    "privnote_sniper": false,
+    "paypalemail": "nigger666@gmail.com",
+    "cashappemail": "nigger666@gmail.com",
+
+    "stream_url": "https://www.twitch.tv/0anky",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
